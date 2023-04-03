@@ -49,7 +49,7 @@ const config = {
     {
       company: 'StvorecStudios',
       position: 'CEO',
-      from: 'April 2021',
+      from: 'January 2021',
       to: 'Present',
       companyLink: '',
     },
