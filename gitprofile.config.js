@@ -90,15 +90,13 @@ const config = {
       description:
         'An 1.19 Minecraft Server',
       imageUrl: 'https://media.discordapp.net/attachments/1052282503941062708/1092094564094988440/logo.png?width=662&height=662',
-      link: '',
     },
-//     {
-//       title: 'Project Name',
-//       description:
-//         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-//       imageUrl: 'https://via.placeholder.com/250x250',
-//       link: 'https://example.com',
-//     },
+    {
+      title: 'Acid',
+      description:
+        'A private Minecraft utility mod.',
+      imageUrl: 'https://media.discordapp.net/attachments/1088891197336060057/1092466749347205242/acid.png?width=225&height=225',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
 //   blog: {
