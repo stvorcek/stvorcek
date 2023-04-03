@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'dqmn', // Your GitHub org/user name. (Required)
+    username: 'stvorcek', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -34,13 +34,9 @@ const config = {
   skills: [
     'HTML',
     'CSS',
-    'JavaScript',
-    'PHP',
-    'TypeScript',
-    'Python',
-    'SQL',
     'C#',
-    'Java'
+    'DarkScript',
+    'Mein Kampf'
   ],
   experiences: [
 //     {
@@ -51,11 +47,11 @@ const config = {
 //       companyLink: '',
 //     },
     {
-      company: 'Fortuna PL',
-      position: 'Developer',
-      from: 'March 2023',
+      company: 'StvorecStudios',
+      position: 'CEO',
+      from: 'April 2021',
       to: 'Present',
-      companyLink: 'https://efortuna.pl',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -92,10 +88,10 @@ const config = {
       imageUrl: 'https://media.discordapp.net/attachments/1052282503941062708/1092094564094988440/logo.png?width=662&height=662',
     },
     {
-      title: 'Acid',
+      title: 'WiChess',
       description:
-        'A private Minecraft utility mod.',
-      imageUrl: 'https://media.discordapp.net/attachments/1088891197336060057/1092466749347205242/acid.png?width=225&height=225',
+        'The Best Chess Website!',
+      imageUrl: 'https://maphostimage.darkys200.repl.co/wichess.png',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
